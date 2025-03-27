@@ -1,4 +1,3 @@
-# facility_management
-This repo is part of sport centre in a city
+# Calculator repository
 <br>
-Authors Mayank,Himanshi,Rishabh,Akash
+Authors: Mayank, Himanshi, Rishabh, Akash
