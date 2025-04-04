@@ -1,4 +1,4 @@
-# Mayank Shrivastava 68
+#RISHAB MALIK
 class Add:
     def __init__(self, a, b): 
         self.a = a
